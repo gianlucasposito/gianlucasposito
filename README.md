@@ -16,7 +16,7 @@ I'm **Gianluca Sposito**, a Data Scientist passionate about turning data into ac
 
 ### 🎓 Education
 
-- *PhD in Industrial Engineering*, specialization in Statistics and Data Science   
+- **PhD in Industrial Engineering**, specialization in Statistics and Data Science   
   University of Naples Federico II
 
 - **Master's in Aerospace Engineering**  
@@ -32,7 +32,7 @@ I'm **Gianluca Sposito**, a Data Scientist passionate about turning data into ac
 - **Languages**: Python, R, SQL
 - **Libraries & Tools**: Pandas, NumPy, Scikit-learn, TensorFlow, Matplotlib, Seaborn
 - **Machine Learning**: Supervised & Unsupervised Learning, NLP, Time Series Analysis
-<> - **Data Tools**: Big Data (Hadoop, Spark), Cloud (AWS, Azure)
+<!-- - **Data Tools**: Big Data (Hadoop, Spark), Cloud (AWS, Azure) -->
 - **Version Control**: Git, GitHub, SVN
 
 ---
