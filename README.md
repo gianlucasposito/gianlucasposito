@@ -7,7 +7,7 @@ I'm **Gianluca Sposito**, a Data Scientist passionate about turning data into ac
 **Data Scientist @ Hitachi Rail STS**  
 *From February 2024 – Present*
 
-- Develop and implement machine learning algorithms ( to predict equipment downtime, failure probabilities, and maintenance needs
+- Develop and implement machine learning algorithms to predict equipment downtime, failure probabilities, and maintenance needs.
 - Perform advanced statistical analysis on collected operational and maintenance data to identify key trends, failure patterns, and critical conditions.
 - Integrate data science techniques such as clustering, classification, and time-series forecasting to enhance service quality and reliability.
 - Develop interactive dashboards that provide real-time insights into equipment health, predictive maintenance alerts, and key performance indicators (KPIs).
