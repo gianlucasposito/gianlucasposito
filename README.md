@@ -1,5 +1,7 @@
 ## Hi there! 👋 Welcome to My GitHub Page
 
+## 👨‍💻 About Me
+
 I'm **Gianluca Sposito**, a Data Scientist passionate about turning data into actionable insights and building machine learning models to solve real-world problems. I thrive on projects involving data exploration, machine learning, and predictive modeling, with a primary goal of using data to drive business decisions and create meaningful change. I’m also committed to continuous learning, always seeking new technologies and opportunities to grow my expertise.
 
 ---
