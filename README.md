@@ -1,12 +1,16 @@
 ## Hi there! 👋 Welcome to My GitHub Page
 
-I'm **[Your Name]**, a Data Scientist who loves turning data into actionable insights and building machine learning models to solve real-world problems. I have a strong background in statistics, programming, and data analysis, with a focus on extracting valuable information from complex datasets.
+I'm Gianluca Sposito, a Data Scientist passionate about turning data into actionable insights and building machine learning models to solve real-world problems. I thrive on projects involving data exploration, machine learning, and predictive modeling, with a primary goal of using data to drive business decisions and create meaningful change. I’m also committed to continuous learning, always seeking new technologies and opportunities to grow my expertise.
 
----
+### 💼 Current Role
 
-## 👨‍💻 About Me
+**Data Scientist @ Hitachi Rail STS**  
+*From February 2024 – Present*
 
-I am passionate about data science and enjoy working on projects that involve data exploration, machine learning, and predictive modeling. My main goal is to use data to drive business decisions and create meaningful change. I enjoy learning new technologies and always look for ways to grow my expertise.
+- Develop and implement machine learning algorithms ( to predict equipment downtime, failure probabilities, and maintenance needs
+- Perform advanced statistical analysis on collected operational and maintenance data to identify key trends, failure patterns, and critical conditions.
+- Integrate data science techniques such as clustering, classification, and time-series forecasting to enhance service quality and reliability.
+- Develop interactive dashboards that provide real-time insights into equipment health, predictive maintenance alerts, and key performance indicators (KPIs).
 
 ---
 
@@ -20,14 +24,6 @@ I am passionate about data science and enjoy working on projects that involve da
 
 ---
 
-### 💼 Current Role
-
-**Data Scientist @ [Company Name]**  
-*From [Month, Year] – Present*
-
-- Collaborating with cross-functional teams to design, implement, and optimize machine learning models for business applications.
-- Working on data analysis, A/B testing, and data pipeline development to support key decision-making processes.
-- Projects include customer segmentation, predictive analytics, and deploying machine learning models in production environments.
 
 ---
 
