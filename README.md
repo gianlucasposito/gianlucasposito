@@ -54,6 +54,10 @@ I'm always open to discussing new ideas or collaborating on exciting projects! F
 
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/filippo-cipriani/)
 
+- [![Email](https://img.shields.io/badge/Email-gianluca.sposito27%40gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:gianluca.sposito27@gmail.com)
+
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filippo-cipriani/)
+
 
 - Email: gianluca.sposito27@gmail.com
 - LinkedIn: www.linkedin.com/in/gianluca-sposito
