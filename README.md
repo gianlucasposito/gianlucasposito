@@ -52,6 +52,7 @@ I'm always open to discussing new ideas or collaborating on exciting projects! F
 
 - Email: gianluca.sposito27@gmail.com
 - LinkedIn: www.linkedin.com/in/gianluca-sposito
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/filippo-cipriani/) 
 
 ---
 
