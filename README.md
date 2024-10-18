@@ -16,7 +16,7 @@ I'm Gianluca Sposito, a Data Scientist passionate about turning data into action
 
 ### 🎓 Education
 
-- **PhD in Industrial Engineering*, specialization in Statistics and Data Science   
+- *PhD in Industrial Engineering*, specialization in Statistics and Data Science   
   University of Naples Federico II
 
 - **Master's in Aerospace Engineering**  
