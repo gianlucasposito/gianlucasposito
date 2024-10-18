@@ -16,11 +16,11 @@ I'm Gianluca Sposito, a Data Scientist passionate about turning data into action
 
 ### 🎓 Education
 
-- **Master's in Data Science**  
-  [University Name], Graduated: [Year]
+- **PhD in Industrial Engineering*, specialization in Statistics and Data Science   
+  University of Naples Federico II
 
-- **Bachelor's in [Relevant Field: Computer Science, Mathematics, etc.]**  
-  [University Name], Graduated: [Year]
+- **Master's in Aerospace Engineering**  
+  University of Naples Federico II
 
 ---
 
@@ -55,7 +55,7 @@ Check out the repositories for more details!
 
 I'm always open to discussing new ideas or collaborating on exciting projects! Feel free to reach out:
 
-- Email: [your.email@example.com]
+- Email: [gianluca.sposito27@gmail.com]
 - LinkedIn: [LinkedIn Profile URL]
 - Twitter: [@your_twitter]
 
