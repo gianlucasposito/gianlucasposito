@@ -32,8 +32,8 @@ I'm Gianluca Sposito, a Data Scientist passionate about turning data into action
 - **Languages**: Python, R, SQL
 - **Libraries & Tools**: Pandas, NumPy, Scikit-learn, TensorFlow, Matplotlib, Seaborn
 - **Machine Learning**: Supervised & Unsupervised Learning, NLP, Time Series Analysis
-- **Data Tools**: Big Data (Hadoop, Spark), Cloud (AWS, Azure)
-- **Version Control**: Git, GitHub
+<> - **Data Tools**: Big Data (Hadoop, Spark), Cloud (AWS, Azure)
+- **Version Control**: Git, GitHub, SVN
 
 ---
 
@@ -44,9 +44,6 @@ Here are some projects I’m proud of:
 - **[Project 1 Name]**:  
   A machine learning model for [describe purpose] using [tech/tools]. The model achieved [describe outcomes] and helped [impact or results].
 
-- **[Project 2 Name]**:  
-  An end-to-end data pipeline for [describe purpose] built using [tech/tools]. This project improved [describe outcomes] by [impact].
-
 Check out the repositories for more details!
 
 ---
@@ -55,40 +52,9 @@ Check out the repositories for more details!
 
 I'm always open to discussing new ideas or collaborating on exciting projects! Feel free to reach out:
 
-- Email: [gianluca.sposito27@gmail.com]
-- LinkedIn: [LinkedIn Profile URL]
-- Twitter: [@your_twitter]
+- Email: gianluca.sposito27@gmail.com
+- LinkedIn: www.linkedin.com/in/gianluca-sposito
 
 ---
 
 Thanks for stopping by! Looking forward to connecting!
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--
-**gianlucasposito/gianlucasposito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
