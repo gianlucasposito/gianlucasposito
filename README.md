@@ -42,7 +42,7 @@ I'm **Gianluca Sposito**, a Data Scientist passionate about turning data into ac
 
 Here are some projects I’m proud of:
 
-- **[Loan Approval Prediction]**:  
+- **Loan Approval Prediction**:  
   A machine learning-powered loan approval prediction system with a deployed web app, leveraging Explainable AI for transparent and interpretable decision insights.
 
 Check out the repositories for more details!
