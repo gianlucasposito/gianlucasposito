@@ -33,9 +33,8 @@ I'm **Gianluca Sposito**, a Data Scientist passionate about turning data into ac
 
 - **Languages**: Python, R, SQL
 - **Libraries & Tools**: Pandas, NumPy, Scikit-learn, TensorFlow, Matplotlib, Seaborn
-- **Machine Learning**: Supervised & Unsupervised Learning, NLP, Time Series Analysis
-<!-- - **Data Tools**: Big Data (Hadoop, Spark), Cloud (AWS, Azure) -->
-- **Version Control**: Git, GitHub, SVN
+- **Machine Learning**: Supervised & Unsupervised Learning, Time Series Analysis
+- **Version Control**: Git, GitHub
 
 ---
 
@@ -43,8 +42,8 @@ I'm **Gianluca Sposito**, a Data Scientist passionate about turning data into ac
 
 Here are some projects I’m proud of:
 
-- **[Project 1 Name]**:  
-  A machine learning model for [describe purpose] using [tech/tools]. The model achieved [describe outcomes] and helped [impact or results].
+- **[Loan Approval Prediction]**:  
+  A machine learning-powered loan approval prediction system with a deployed web app, leveraging Explainable AI for transparent and interpretable decision insights.
 
 Check out the repositories for more details!
 
