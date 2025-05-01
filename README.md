@@ -45,6 +45,9 @@ Here are some projects I’m proud of:
 - **Loan Approval Prediction**:  
   A machine learning-powered loan approval prediction system with a deployed web app, leveraging Explainable AI for transparent and interpretable decision insights.
 
+- **YOLO Waste Detection**:
+  YOLO-based object-detection model designed to identify five categories of waste (Glass, Metal, Paper, Plastic, Waste) from images.
+
 Check out the repositories for more details!
 
 ---
