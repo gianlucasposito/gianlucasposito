@@ -35,9 +35,9 @@ I'm **Gianluca Sposito**, a Data Scientist passionate about turning data into ac
 - **Libraries & Tools**: Pandas, NumPy, Scikit-learn, TensorFlow, Matplotlib, Seaborn
 - **Machine Learning**: Supervised & Unsupervised Learning, Time Series Analysis
 - **Version Control**: Git, GitHub
-
----
 <!--
+---
+
 ### 🏆 Projects
 
 Here are some projects I’m proud of:
