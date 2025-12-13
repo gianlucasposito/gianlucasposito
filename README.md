@@ -37,7 +37,7 @@ I'm **Gianluca Sposito**, a Data Scientist passionate about turning data into ac
 - **Version Control**: Git, GitHub
 
 ---
-
+<!--
 ### 🏆 Projects
 
 Here are some projects I’m proud of:
@@ -49,7 +49,7 @@ Here are some projects I’m proud of:
   YOLO-based object-detection model designed to identify five categories of waste (Glass, Metal, Paper, Plastic, Waste) from images.
 
 Check out the repositories for more details!
-
+-->
 ---
 
 ### 📫 Let's Connect
